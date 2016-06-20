@@ -1,0 +1,3 @@
+# quote-generator
+
+JavaScript Project
