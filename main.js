@@ -1,6 +1,3 @@
-// Use jQuery here!
-// Remember to set up your script to only run when the document is ready
-
 var quotebank = [
     {
         quote: "Luck is what happens when preparation meets opportunity.",
